@@ -1,3 +1,9 @@
+## 🚀 Key Impact
+
+- Identified **$16.7M+ in financial discrepancies**
+- Reduced reconciliation time from **hours to minutes**
+- Automated detection of missing and inconsistent transactions
+
 # Bank Reconciliation & Exception Report System  
 **Excel · Power Query (M) · ETL Architecture**
 
