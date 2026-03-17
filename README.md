@@ -192,5 +192,5 @@ This project showcases my ability to:
 ## Author
 
 **Diana Novoa**  
-Financial Data Automation | Excel | Power Query | SQL | Reconciliation Systems
+Financial Data Automation | Excel | Power Query | Reconciliation Systems
 
