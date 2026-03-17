@@ -194,9 +194,3 @@ This project showcases my ability to:
 **Diana Novoa**  
 Financial Data Automation | Excel | Power Query | SQL | Reconciliation Systems
 
----
-
-## Notes
-
-This solution reflects a real-world approach to financial reconciliation, focusing on scalability, traceability, and actionable exception reporting for finance teams.
-
