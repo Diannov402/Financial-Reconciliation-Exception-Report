@@ -17,5 +17,4 @@ Excel + Power Query | SQL | Power BI
 - Clean, traceable foundation for future reporting.  
 - Ability to detect discrepancies that were previously missed.
 
-**Screenshots**  
-(Add 2-3 images here: before/after + final clean table)
+
