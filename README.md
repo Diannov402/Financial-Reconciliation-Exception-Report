@@ -1,20 +1,20 @@
-# Financial Data Restructuring for Analysis-Ready Reporting
+# Bank Reconciliation & Exception Reporting Workflow
 
 **Client Problem**  
-Financial reports scattered across multiple Excel sheets with inconsistent formats, merged cells, and non-tabular data. Impossible to analyze or visualize without hours of manual cleaning.
+Manual bank reconciliation of over 1,000 transactions across systems. Constant mismatches, hours wasted, and high risk of errors.
 
 **What I Did**  
-- Extracted and standardized data from 12 different sheets.  
-- Cleaned null values, duplicates, and inconsistent formats using Power Query.  
-- Transformed everything into structured tables ready for SQL and Power BI.  
-- Documented every step so the client can maintain it independently.
+- Built full automation in Excel + Power Query.  
+- Automatic detection and classification of exceptions.  
+- Generated an audit-ready exception report with complete traceability.
 
 **Tools Used**  
-Excel + Power Query | SQL | Power BI
+Excel | Power Query | DAX (for optional dashboard)
 
 **Results**  
-- Analysis-ready data in under 30 minutes (previously took 4-6 hours).  
-- Clean, traceable foundation for future reporting.  
-- Ability to detect discrepancies that were previously missed.
+- Reduced reconciliation time from hours to minutes.  
+- Identified +$16.7M in discrepancies in real projects.  
+- Clear report that anyone can understand and audit.
+
 
 
