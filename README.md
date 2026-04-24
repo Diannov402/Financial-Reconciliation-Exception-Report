@@ -16,5 +16,6 @@ Excel | Power Query | DAX (for optional dashboard)
 - Identified +$16.7M in discrepancies in real projects.  
 - Clear report that anyone can understand and audit.
 
-
+> ⚠️ Data Disclaimer
+> The dataset used in this project was synthetically generated for portfolio purposes using AI-simulated data. All business logic, ETL architecture, reconciliation rules, and exception reporting structure were designed and built independently.
 
